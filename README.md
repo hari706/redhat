@@ -1,0 +1,2 @@
+# redhat
+test python project
